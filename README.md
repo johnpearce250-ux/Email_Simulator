@@ -95,10 +95,7 @@ Handle attachments or multiple recipients.
 📝 License
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute!
 
-Author: [Your Name]
+Author: [John Pearce]
 Built with: ❤️ and Python
 First README ever—hope it's helpful! 🎉
 
-Save this as README.md in your project root. GitHub renders it beautifully! Pro tip: Use this template generator for more ideas. 😊
-
-Grok 4.1 Fast (Reas
